@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1CBMMbK5vkkORXI45WBPyabbnz6dHZtZI/view?usp=share_link)
 
-- 👨‍💻 All of my projects are available at Github and [Portfolio](https://vaibhav-mougha.github.io/)
+<!-- - 👨‍💻 All of my projects are available at Github and [Portfolio](https://vaibhav-mougha.github.io/) -->
 
 - 💞️ I’m looking to collaborate on **Projects**
 
