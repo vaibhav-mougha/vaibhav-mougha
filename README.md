@@ -6,7 +6,11 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My self Vaibhav Mougha; I am a Full-stack%20web%20developer 👨🏻‍💻; Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
 </p>
 
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+<div align="center">
+<img align="center" src = "https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" alt="coverimage"  />
+</div>
+
+<!-- ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966) -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav-mougha&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav-mougha" /> </p>
 
