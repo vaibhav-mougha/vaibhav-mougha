@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning *React.js*
 
-- 📄 Know about my experiences [Resume](https://1drv.ms/b/s!Al8je8BgLJXPmi9mPM5F4UYcaeZu?e=z4Mx2s)
+- 📄 Know about my experiences [Resume](https://1drv.ms/b/s!Al8je8BgLJXPmjDlfHu1LvZYrn1Y?e=K0TbWN)
 
 - 👨‍💻 All of my projects are available at Github and [Portfolio](https://vaibhav-mougha.github.io/)
 
