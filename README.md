@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences [Resume](https://1drv.ms/b/s!Al8je8BgLJXPmjDlfHu1LvZYrn1Y?e=K0TbWN)
 
-- 👨‍💻 All of my projects are available at Github and [Portfolio](https://vaibhav-mougha.github.io/)
+- 👨‍💻 All of my projects are available at Github and [Portfolio] vaibhav-mougha.github.io
 
 - 💞️ I’m looking to collaborate on **Projects**
 
