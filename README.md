@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences [Resume](https://1drv.ms/b/s!Al8je8BgLJXPmjDlfHu1LvZYrn1Y?e=K0TbWN)
 
-- 👨‍💻 All of my projects are available at Github and [Portfolio] https://vaibhav-mougha.github.io/
+- 👨‍💻 All of my projects are available at Github and [Portfolio](https://vaibhav-mougha.github.io/)
 
 - 💞️ I’m looking to collaborate on **Projects**
 
@@ -85,19 +85,19 @@
 ## 📊 My Github Stats
    <br/>   
     <p align="center">      
-<img alt="vaibhav-mougha Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-mougha&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+<a href="https://github.com/vaibhav-mougha/github-readme-stats"><img alt="vaibhav-mougha Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-mougha&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
       </p>      
      <br/>
    <p align="center">
-
+    <a href="https://github.com/vaibhav-mougha/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="vaibhav-mougha streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-mougha&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
-
+    </a>
 </p>                                                                                                                                              
 
   <br/>
   <br/>
      <p align="center">                                                                                                 
-<img alt="vaibhav-mougha Github Stats" src="https://github-readme-stats.vercel.app/api?username=vaibhav-mougha&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="vaibhav-mougha" />
+    <a href="https://github.com/vaibhav-mougha/github-readme-stats"><img alt="vaibhav-mougha Github Stats" src="https://github-readme-stats.vercel.app/api?username=vaibhav-mougha&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="vaibhav-mougha" /></a>
     </p>                                                                 
  <h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
 
@@ -106,7 +106,7 @@
 <br/>
 
 <!-- <a href="https://github.com/vaibhav-mougha/github-readme-activity-graph"><img alt="vaibhav-mougha Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vaibhav-mougha&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
-<img alt="vaibhav-mougha Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=vaibhav-mougha&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+<a href="https://github.com/vaibhav-mougha/github-readme-activity-graph"><img alt="vaibhav-mougha Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=vaibhav-mougha&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
