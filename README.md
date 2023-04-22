@@ -85,7 +85,7 @@
 ## 📊 My Github Stats
    <br/>   
     <p align="center">      
-<img alt="vaibhav-mougha Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-mougha&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+<a href="https://github.com/vaibhav-mougha/github-readme-stats"><img alt="vaibhav-mougha Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-mougha&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
       </p>      
      <br/>
    <p align="center">
@@ -97,7 +97,7 @@
   <br/>
   <br/>
      <p align="center">                                                                                                 
-    <img alt="vaibhav-mougha Github Stats" src="https://github-readme-stats.vercel.app/api?username=vaibhav-mougha&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="vaibhav-mougha" />
+    <a href="https://github.com/vaibhav-mougha/github-readme-stats"><img alt="vaibhav-mougha Github Stats" src="https://github-readme-stats.vercel.app/api?username=vaibhav-mougha&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="vaibhav-mougha" /></a>
     </p>                                                                 
  <h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
 
