@@ -85,7 +85,7 @@
 ## 📊 My Github Stats
    <br/>   
     <p align="center">      
-  <a href="https://github.com/vaibhav-mougha/github-readme-stats"><img alt="vaibhav-mougha Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-mougha&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<img alt="vaibhav-mougha Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-mougha&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
       </p>      
      <br/>
    <p align="center">
